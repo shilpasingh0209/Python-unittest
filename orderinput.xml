@@ -1,0 +1,27 @@
+<order>
+	<dealer>
+		<dealerid>1</dealerid>
+		<dealeraccesskey>123</dealeraccesskey>
+	</dealer>
+	<orderitems>
+		<item>
+		<partnumber>556</partnumber>
+		<quantity>0</quantity>
+		</item>
+		<item>
+		<partnumber>777</partnumber>
+		<quantity>2</quantity>
+		</item>
+		<item>
+		<partnumber>11</partnumber>
+		<quantity>25</quantity>
+		</item>
+	</orderitems>
+	<deliveryaddress>
+		<name>Tom</name>
+		<street>1333 South Park</street>
+		<city>Halifax</city>
+		<province>NS</province>
+		<postalcode>BTA1A6</postalcode>
+	</deliveryaddress>
+</order>
